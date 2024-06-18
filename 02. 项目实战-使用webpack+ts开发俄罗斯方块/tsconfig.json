@@ -10,5 +10,6 @@
         "moduleResolution": "node",
         "isolatedModules": true
     },
-    "include": ["./src"]
+    "include": ["./src"],
+    
 }
